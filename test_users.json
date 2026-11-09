@@ -1,0 +1,24 @@
+[
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "username": "admin",
+      "password": "!",
+      "is_active": true,
+      "is_staff": false,
+      "is_superuser": false
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+      "username": "testuser",
+      "password": "!",
+      "is_active": true,
+      "is_staff": false,
+      "is_superuser": false
+    }
+  }
+]
